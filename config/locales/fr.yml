@@ -698,7 +698,7 @@ fr:
       tax_rates:
         excluding_tax: "%{name}%{amount}"
         sales_tax_with_rate: "%{amount} %{name}"
-        including_tax: "%{name}%{amount} (Inclus dans le prix)"
+        including_tax: "Dont TVA %{name}"
         vat_with_rate: "incl. %{amount} %{name}"
     adjustment_successfully_closed: Ajustement fermé avec succès!
     adjustment_successfully_opened: Ajustement ouvert avec succès!
